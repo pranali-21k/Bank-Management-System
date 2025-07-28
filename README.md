@@ -1,3 +1,3 @@
 # Bank-Management-System
 <br>
-Author Pranali
+Author Pranali Karale
